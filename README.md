@@ -17,9 +17,10 @@ Emerging Trends:   Exploration of new trends and technologies in cuber security,
 3) Feel free to costomize the presentation to fit your audience or addd additional content as needed
 
 
-
+## Canva
 https://www.canva.com/design/DAGHDdnFh-o/keComXbq1EjVFO0xnXoIcw/edit?utm_content=DAGHDdnFh-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-https://drive.google.com/drive/u/0/folders/1w0G83kpmrQrg4P2p_WqC94gOSJD07E3M
+## Google Drive
+https://drive.google.com/drive/u/0/folders/11LxFENXJNPOSOcxfng_wLT3kUl1wMmrb
 
 
 ![Снимок экрана 2024-06-03 142018](https://github.com/AibekKarshiboev/Aibek.situational.task5/assets/81102375/2edabf95-814e-42ff-ab1d-e43f8c46dc04)
