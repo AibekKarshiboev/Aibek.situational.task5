@@ -1,6 +1,26 @@
 # Aibek.situational.task5
 
+## Fundamentals of Cyber Sequrity Presentation
+This repository contains materials for a presentation on the fundamentals of cyber security aimed at beginners. The presentation covers assential topics in cyber security, including common threats, key concepts and terminologies, best practices, incident responce, and emerging trends. It is designed to provide a comprehensive overview of cyber security principles and practices in an accessible format.
+
+## Presentation structure
+Introduction:      Overview of cyber security and its importance
+Common threats:    Explanation of common cyber threats such as malware, phishing, and DoS attack
+Key concepts:      Discussion of essential concepts like encryption, authentication, and network security
+Best practice:     Guidance on implementing best practices for cyber security, including strong passwords and software updates
+Incident Response: Overwiew of incident response procedures and strategies
+Emerging Trends:   Exploration of new trends and technologies in cuber security, such as AI and IoT security
+
+## How to use?
+1) Share or download the repository to your local mashine
+2) Open the presentation file to view the slides
+3) Feel free to costomize the presentation to fit your audience or addd additional content as needed
+
+
+
 https://www.canva.com/design/DAGHDdnFh-o/keComXbq1EjVFO0xnXoIcw/edit?utm_content=DAGHDdnFh-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 
 ![Снимок экрана 2024-06-03 142018](https://github.com/AibekKarshiboev/Aibek.situational.task5/assets/81102375/2edabf95-814e-42ff-ab1d-e43f8c46dc04)
 ![Снимок экрана 2024-06-03 142028](https://github.com/AibekKarshiboev/Aibek.situational.task5/assets/81102375/fa7df219-102d-40c5-b9a3-9c9f3bdcf8f6)
